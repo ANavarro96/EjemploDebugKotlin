@@ -1,8 +1,9 @@
 <resources>
 
-        <string name="app_name">Club de fans de LBJ</string>
-        <string name="question_string">En el ultimo partido de las finales de 2016 contra Golden State,
+    <string name="app_name">Club de fans de LBJ</string>
+    <string name="question_string">En el ultimo partido de las finales de 2016 contra Golden State,
         James metió todos estos puntos:</string>
-        <string name="fan_falso">ERROR! ERROR!</string>
+    <string name="fan_falso">ERROR! ERROR!</string>
+    <string name="title_activity_actividad_principal">ActividadPrincipal</string>
 
 </resources>
