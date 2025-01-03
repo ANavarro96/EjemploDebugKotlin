@@ -4,12 +4,13 @@ plugins {
 }
 
 android {
-    compileSdk 32
+    namespace 'ifp.pmm.ejemplodebugkotlin'
+    compileSdk 34
 
     defaultConfig {
         applicationId "ifp.pmm.ejemplodebugkotlin"
         minSdk 24
-        targetSdk 32
+        targetSdk 34
         versionCode 1
         versionName "1.0"
 
